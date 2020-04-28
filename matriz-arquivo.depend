@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1588031948 source:c:\users\fcamara\documents\github\matriz-arquivo\src\matriz.cpp
+	"matriz.h"
+	<iostream>
+	<stdlib.h>
+
+1588031925 c:\users\fcamara\documents\github\matriz-arquivo\include\matriz.h
+
+1588036844 source:c:\users\fcamara\documents\github\matriz-arquivo\main.cpp
+	<iostream>
+	<matriz.h>
+	<omp.h>
+	<time.h>
+
